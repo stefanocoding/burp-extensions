@@ -27,6 +27,7 @@ supportedContentTypes = [
     "application/json",
     "text/json",
     "text/x-json",
+    "application/vnd.api+json"
 ]
 
 # Global Switch
